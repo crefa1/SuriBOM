@@ -1,0 +1,10 @@
+NOT: BU BOTU KULLANMAK İÇİN node.js indirin.
+Dosyanın içinde virüs olduğundan şüpheleniyorsanız dosyaları kontrol edebilirsiniz.
+Botu kullanırken hiç bir şekilde sorumluluk kabul etmiyorum.
+
+
+
+
+
+
+BY CREFA
